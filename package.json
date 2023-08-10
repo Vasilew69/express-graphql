@@ -1,9 +1,9 @@
 {
-  "name": "express-graphql",
+  "name": "express-graphql-v",
   "version": "0.12.0",
   "description": "Production ready GraphQL HTTP middleware.",
-  "license": "MIT",
-  "private": true,
+  "license": "ISC",
+  "private": false,
   "main": "index.js",
   "types": "index.d.ts",
   "typesVersions": {
@@ -14,13 +14,13 @@
     }
   },
   "sideEffects": false,
-  "homepage": "https://github.com/graphql/express-graphql",
+  "homepage": "https://github.com/Vasilew69/express-graphql",
   "bugs": {
-    "url": "https://github.com/graphql/express-graphql/issues"
+    "url": "https://github.com/Vasilew69/express-graphql/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/graphql/express-graphql.git"
+    "url": "git+https://github.com/Vasilew69/express-graphql.git"
   },
   "keywords": [
     "express",
@@ -109,5 +109,9 @@
   },
   "peerDependencies": {
     "graphql": "^14.7.0 || ^15.3.0"
-  }
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "author": "Vasilew69"
 }
