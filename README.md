@@ -1,4 +1,4 @@
-_If you still need to use `express-graphql`, please [read the previous version of this readme](https://github.com/graphql/express-graphql/blob/8b6ffc65776aa40d9e03f554425a1dc14840b165/README.md)._
+_If you still need to use `express-graphql-v`, please [read the previous version of this readme](https://github.com/graphql/express-graphql/blob/8b6ffc65776aa40d9e03f554425a1dc14840b165/README.md)._
 
 # This library is deprecated
 
